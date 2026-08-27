@@ -57,7 +57,7 @@ pip install PySide6
 
 3. Run the application:
 ```bash
-python webm_converter.py
+python program.py
 ```
 
 ## Usage
@@ -73,7 +73,7 @@ python webm_converter.py
 ### Folder Structure
 ```
 webm-to-mp4-converter/
-├── webm_converter.py
+├── program.py
 ├── Input/           # Place your .webm files here
 └── Output/          # Converted .mp4 files appear here
 ```
